@@ -3,8 +3,14 @@
 ## About Me 🚀
 I'm an aspiring **Cybersecurity Specialist** and **Paralegal** with a passion for Python programming. I am currently pursuing a cybersecurity certification at **Columbia Engineering Boot Camps** to refine my skills and excel in the field of cybersecurity.
 
-## Work Experience 🏢
-Currently working as a Paralegal at **Everest Consultancy Services**.
+## Experience 🏭
+
+- **Paralegal** at *Everest Consultancy Services* (Present)
+    - Document preparation, legal research, client management.
+
+- **Licensed Insurance Agent** at *New York Life Insurance Company* 
+    - Licensed to sell insurance through New York Life.
+
 
 ## Education 🎓
 - Pursuing a Cybersecurity certification from **Columbia Engineering Boot Camps**.
