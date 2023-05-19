@@ -1,4 +1,4 @@
--# Hello, I'm Lodoe Lama 👋
+# Hello, I'm Lodoe Lama 👋
 
 ## About Me 🚀
 I'm an aspiring **Cybersecurity Specialist** and **Paralegal** with a passion for Python programming. I am currently pursuing a cybersecurity certification at **Columbia Engineering Boot Camps** to refine my skills and excel in the field of cybersecurity.
