@@ -8,9 +8,6 @@ I'm an aspiring **Cybersecurity Specialist** and **Paralegal** with a passion fo
 - **Paralegal** at *Everest Consultancy Services* (Present)
     - Document preparation, legal research, client management.
 
-- **Licensed Insurance Agent** at *New York Life Insurance Company* 
-    - Licensed to sell insurance through New York Life.
-
 
 ## Education 🎓
 - Pursuing a Cybersecurity certification from **Columbia Engineering Boot Camps**.
