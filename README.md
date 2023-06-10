@@ -9,16 +9,17 @@ I'm an aspiring **Cybersecurity Specialist** and **Paralegal** with a passion fo
     - Document preparation, legal research, client management.
 
 
-## Education 🎓
+## Education & Certifications 🎓
+
 - Pursuing a Cybersecurity certification from **Columbia Engineering Boot Camps**.
-- Taking Practical Ethical Hacking and Practical Web Application And Security course at **TCM Security Inc**
-- Taking Networking Essentials course at **CISCO Networking Academy**
-- Pursing Intro **AWS** and **AZURE** cloud security certs 
-- Learning web application security from **Portswigger Web Academy**
-- Pursuing a Intro to Computer Science certificate from **Harvard CS50's Introduction to Computer Science**
-- Pursuing **CompTIA Security+** Certification
+- Studying Practical Ethical Hacking and Web Application Security at **TCM Security Inc**.
+- Enrolled in Networking Essentials course at **CISCO Networking Academy**.
+- Pursuing AWS and Azure cloud security introductory certifications.
+- Gaining hands-on web application security experience from **Portswigger Web Academy**.
+- Earning Intro to Computer Science certificate from **Harvard CS50's Introduction to Computer Science**.
+- Working towards **CompTIA Security+** Certification.
 - Learning **Python 3** programming at **Codecademy**.
-- Earned a Paralegal Certification from **Washington Technical Institute**.
-- Completed two years of General education courses at **SUNY Oswego University**.
+- Paralegal Certification from **Washington Technical Institute**.
+
 
 
