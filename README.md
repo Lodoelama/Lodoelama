@@ -12,7 +12,7 @@ I'm an aspiring **Cybersecurity Specialist** and **Paralegal** with a passion fo
 ## Education & Certifications 🎓
 
 - Pursuing a Cybersecurity certification from **Columbia Engineering Boot Camps**.
-- Studying Practical Ethical Hacking and Web Application Security at **TCM Security Inc**.
+- Studying Practical Ethical Hacking and Web Application Security at **TCM Security Academy**.
 - Enrolled in Networking Essentials course at **CISCO Networking Academy**.
 - Pursuing AWS and Azure cloud security introductory certifications.
 - Gaining hands-on web application security experience from **Portswigger Web Academy**.
