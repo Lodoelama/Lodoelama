@@ -38,7 +38,7 @@ Paralegal at Everest Consultancy Services (Present)
 - Learning Python 3 programming at Codecademy.
 - Paralegal Certification from Washington Technical Institute.
 
-🔧 **Languages I have basic understanding of** 
+🔧 **Programming Languages I've Worked With** 
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
