@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=FF5733&size=24&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Lodoe+Lama; Cybersecurity+Enthusiast+%7C+Dedicated+Paralegal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=FF5733&size=24&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Lodoe+Lama;Aspiring+Cybersecurity+Specialist;Eager+to+Secure+and+Protect;Paralegal+with+a+Passion+for+Tech" alt="Typing SVG" />
 </a>
+
 
 
 <br/>
