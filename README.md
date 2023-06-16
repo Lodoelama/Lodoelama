@@ -49,13 +49,13 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 
 # 🎓 **Education & Certifications**:
 - Cybersecurity certification from Columbia Engineering Boot Camps (In Progress)
-- Practical Ethical Hacking and Web Application Security - TCM Security Academy
-- Networking Essentials - CISCO Networking Academy
+- Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
+- Networking Essentials - CISCO Networking Academy (In Progress)
 - AWS and Azure cloud security introductory certifications (In Progress)
-- Hands-on web application security experience - Portswigger Web Academy
-- Intro to Computer Science - Harvard CS50's Introduction to Computer Science
+- Hands-on web application security experience - Portswigger Web Academy (In Progress)
+- Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
 - CompTIA Security+ Certification (In Progress)
-- Python 3 programming - Codecademy
+- Python 3 programming - Codecademy (In Progress)
 - Paralegal Certification - Washington Technical Institute
 
 # 💻 **Programming Languages**:
