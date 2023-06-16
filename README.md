@@ -31,10 +31,6 @@ This project entails the design, development, and deployment of a secure web app
 
 Documentation of my assignments and future projects during my time in the Bootcamp 
 
-## [Home-Lab-Network-Set-up](https://github.com/lodoelama/Kali-Purple-Set-up)
-
-This repository documents my journey in setting up a home lab with virtual machines for cybersecurity learning and experimentation. It covers the configuration of various services and demonstrates my hands-on experience with different cybersecurity tools.
-
 ## [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
 
 A collection of Red Team and Blue Team scripts including automation, penetration testing, and vulnerability scanning tasks. The repository contains a variety of Bash and Python scripts for common tasks, as well as examples of how they can be applied in real-world scenarios.
