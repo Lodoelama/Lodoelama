@@ -20,7 +20,7 @@
 
 # 🚀 About Me
 
-Aspiring Cybersecurity Specialist and experienced Paralegal, I'm currently working to refine my cybersecurity expertise at Columbia Engineering Boot Camps. With a passion for problem-solving and love for technology, my aim is to bring my unique mix of legal and technical skills to the forefront of cybersecurity.
+Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology, I am eager to pursue a career in cybersecurity. I understand the importance of creating a strong foundation in this field, and I am actively working towards refining my skills through ongoing education and practical experience.
 
 # Projects
 ## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
