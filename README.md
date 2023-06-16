@@ -29,7 +29,7 @@ This project entails the design, development, and deployment of a secure web app
 
 ## [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
 
-Documentation of my assignments and future projects during my time in the Bootcamp 
+This repository documents my experience, assignments and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking
 
 ## [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
 
