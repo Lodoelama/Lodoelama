@@ -40,14 +40,14 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 
 
 
-💼 **Experience**:
+# 💼 **Experience**:
 
 *Paralegal* at Everest Consultancy Services (Present)
 - Document preparation
 - Legal research
 - Client management
 
-🎓 **Education & Certifications**:
+# 🎓 **Education & Certifications**:
 - Cybersecurity certification from Columbia Engineering Boot Camps (In Progress)
 - Practical Ethical Hacking and Web Application Security - TCM Security Academy
 - Networking Essentials - CISCO Networking Academy
@@ -58,7 +58,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 - Python 3 programming - Codecademy
 - Paralegal Certification - Washington Technical Institute
 
-💻 **Programming Languages**:
+# 💻 **Programming Languages**:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,7 +67,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-🧰 **Tools**:
+# 🧰 **Tools**:
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0779A7?style=for-the-badge&logo=nmap&logoColor=white)
