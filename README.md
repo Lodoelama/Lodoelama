@@ -47,6 +47,8 @@ Paralegal at Everest Consultancy Services (Present)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</p>
     
 🛠️ **Tools I've Worked With** 
 
@@ -55,13 +57,8 @@ Paralegal at Everest Consultancy Services (Present)
 <img src="https://img.shields.io/badge/Nmap-0779A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
 <img src="https://img.shields.io/badge/BurpSuite-FF6400?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus">
 <img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
-<img src="https://img.shields.io/badge/OpenVAS-7CBB00?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS">
 <img src="https://img.shields.io/badge/OWASPZAP-000000?style=for-the-badge&logo=owaspzap&logoColor=white" alt="OWASP ZAP">
 <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </p>
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-</p>
