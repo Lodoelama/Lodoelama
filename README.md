@@ -23,15 +23,15 @@
 Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology, I am eager to pursue a career in cybersecurity. I understand the importance of creating a strong foundation in this field, and I am actively working towards refining my skills through ongoing education and practical experience.
 
 # 🔨🔧 Projects:
-## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
+### [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 
 This project entails the design, development, and deployment of a secure web application hosted on Azure. It covers key aspects of cybersecurity, including IP networking, DNS, SSL/TLS certificates, cloud tenants, and the usage of Azure Key Vault for cryptographic keys, secrets, and certificates management. It also explores Azure Web Application Gateway, Azure Front Door, and the implementation of a Web Application Firewall (WAF) for enhanced security. In addition to building technical skills, the project promotes a comprehensive understanding of cloud-based web application security, data protection, and secure web development practices.
 
-## [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
+### [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
 
 This repository documents my experience, assignments and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking
 
-## [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
+### [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
 
 A collection of Red Team and Blue Team scripts including automation, penetration testing, and vulnerability scanning tasks. The repository contains a variety of Bash and Python scripts for common tasks, as well as examples of how they can be applied in real-world scenarios.
 
