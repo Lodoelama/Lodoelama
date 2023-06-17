@@ -30,9 +30,7 @@ This repository documents my experience, assignments, and projects completed dur
 
 *Paralegal* at Everest Consultancy Services (Present)
 - **Document Preparation**: Prepared and reviewed legal documents, ensuring accuracy and compliance with regulations. 
-- **Legal Research**: Conducted extensive legal research to support case preparation and litigation. 
-- **Client Management**: Managed client relationships and coordinated communication, demonstrating my interpersonal skills and ability to explain complex information in an understandable way. 
-- **IT Troubleshooting**: Assisted in resolving technical issues within the office, including software installation, network connectivity problems, and basic system troubleshooting. T
+- **IT Troubleshooting**: Assisted in resolving technical issues within the office, including software installation, network connectivity problems, and basic system troubleshooting. 
 - **Data Management**: Responsible for managing and protecting sensitive client data, demonstrating my understanding of the importance of data security and privacy.
 - **Software Proficiency**: Developed proficiency in a range of software tools used for legal research and document preparation, showing my ability to quickly learn and adapt to new technologies.
 
