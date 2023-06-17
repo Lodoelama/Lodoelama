@@ -29,9 +29,10 @@ This repository documents my experience, assignments, and projects completed dur
 ## 💼 **Experience**:
 
 *Paralegal* at Everest Consultancy Services (Present)
-- Document preparation
-- Legal research
-- Client management
+- **Document Preparation**: Prepared and reviewed legal documents, ensuring accuracy and compliance with regulations. This role required a high level of attention to detail, a skill that is crucial in cybersecurity for tasks such as code review and vulnerability scanning.
+- **Legal Research**: Conducted extensive legal research to support case preparation and litigation. This developed my analytical skills and ability to quickly learn new information, both of which are important in cybersecurity for understanding new threats and staying up-to-date with the latest security trends.
+- **Client Management**: Managed client relationships and coordinated communication, demonstrating my interpersonal skills and ability to explain complex information in an understandable way. This is relevant to cybersecurity, where professionals often need to explain technical risks and defenses to non-technical colleagues or clients.
+
 
 ## 🎓 Education:
 
