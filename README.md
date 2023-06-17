@@ -18,11 +18,11 @@
 
 </p>
 
-# 🚀 About Me
+## 🚀 About Me
 
 Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology, I am eager to pursue a career in cybersecurity. I understand the importance of creating a strong foundation in this field, and I am actively working towards refining my skills through ongoing education and practical experience.
 
-# 🔨🔧 Projects:
+## 🔨🔧 Projects:
 ### [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 
 This project entails the design, development, and deployment of a secure web application hosted on Azure. It covers key aspects of cybersecurity, including IP networking, DNS, SSL/TLS certificates, cloud tenants, and the usage of Azure Key Vault for cryptographic keys, secrets, and certificates management. It also explores Azure Web Application Gateway, Azure Front Door, and the implementation of a Web Application Firewall (WAF) for enhanced security. In addition to building technical skills, the project promotes a comprehensive understanding of cloud-based web application security, data protection, and secure web development practices.
@@ -40,7 +40,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 
 
 
-# 💼 **Experience**:
+## 💼 **Experience**:
 
 *Paralegal* at Everest Consultancy Services (Present)
 - Document preparation
@@ -65,7 +65,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 
 
 
-# 💻 **Programming Languages**:
+## 💻 **Programming Languages**:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,7 +74,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-# 🧰 **Tools**:
+## 🧰 **Tools**:
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0779A7?style=for-the-badge&logo=nmap&logoColor=white)
