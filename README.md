@@ -32,8 +32,27 @@ This repository documents my experience, assignments, and projects completed dur
 - **Document Preparation**: Prepared and reviewed legal documents, ensuring accuracy and compliance with regulations. 
 - **Legal Research**: Conducted extensive legal research to support case preparation and litigation. 
 - **Client Management**: Managed client relationships and coordinated communication, demonstrating my interpersonal skills and ability to explain complex information in an understandable way. 
-- **IT Support**: Assisted in troubleshooting and resolving IT issues within the office, gaining hands-on experience with various software and hardware solutions. 
-- **Data Management**: Responsible for managing and protecting sensitive client data, adhering to strict confidentiality and data protection standards. 
+- **IT Troubleshooting**: Assisted in resolving technical issues within the office, including software installation, network connectivity problems, and basic system troubleshooting. T
+- **Data Management**: Responsible for managing and protecting sensitive client data, demonstrating my understanding of the importance of data security and privacy.
+- **Software Proficiency**: Developed proficiency in a range of software tools used for legal research and document preparation, showing my ability to quickly learn and adapt to new technologies.
+
+*Cybersecurity Bootcamp Participant* at Columbia Engineering Boot Camps (In Progress)
+- Completed several projects related to network security, penetration testing, and ethical hacking.
+- Gained practical experience in various cybersecurity concepts and tools.
+
+*Project Developer* for [Azure-Based Cybersecurity Implementation](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
+- Designed, developed, and deployed a secure web application hosted on Azure.
+- Gained experience with cloud security, secure web development practices, and Azure Key Vault.
+
+*Script Developer* for [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
+- Developed a collection of Red Team and Blue Team scripts for automation, penetration testing, and vulnerability scanning tasks.
+- Demonstrated ability to apply cybersecurity concepts in a practical way and proficiency in scripting languages.
+
+*Self-Learning and Online Training*
+- Actively learning and upskilling in various areas of cybersecurity, including ethical hacking, web application security, and networking essentials.
+- Gaining hands-on web application security experience through Portswigger Web Academy.
+- Learning Python programming through Codecademy.
+
 
 ## 🎓 Education:
 
