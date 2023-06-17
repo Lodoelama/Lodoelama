@@ -32,7 +32,8 @@ This repository documents my experience, assignments, and projects completed dur
 - **Document Preparation**: Prepared and reviewed legal documents, ensuring accuracy and compliance with regulations. 
 - **Legal Research**: Conducted extensive legal research to support case preparation and litigation. 
 - **Client Management**: Managed client relationships and coordinated communication, demonstrating my interpersonal skills and ability to explain complex information in an understandable way. 
-
+- **IT Support**: Assisted in troubleshooting and resolving IT issues within the office, gaining hands-on experience with various software and hardware solutions. 
+- **Data Management**: Responsible for managing and protecting sensitive client data, adhering to strict confidentiality and data protection standards. 
 
 ## 🎓 Education:
 
