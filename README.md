@@ -43,6 +43,8 @@ I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ### [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
 
+![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
+
 This repository documents my experience, assignments, and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking.
 
 ## 🎓 Education:
