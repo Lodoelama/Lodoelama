@@ -1,45 +1,30 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=DarkSlateGray&size=36&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Lodoe+Lama;Aspiring+Cybersecurity+Specialist;Paralegal+with+a+Passion+for+Tech" alt="Typing SVG" />
-
 </a>
-
-
-
 <br/>
-
 <a href="https://www.linkedin.com/in/lodoelama/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:lodoelama@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 <br/> 
-
 </p>
 
 ## 🚀 About Me
 
-Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology, I am eager to pursue a career in cybersecurity. I understand the importance of creating a strong foundation in this field, and I am actively working towards refining my skills through ongoing education and practical experience.
+I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
 
-## 🔨🔧 Projects:
+## 🔨🔧 Highlighted Projects
+
 ### [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 
-This project entails the design, development, and deployment of a secure web application hosted on Azure. It covers key aspects of cybersecurity, including IP networking, DNS, SSL/TLS certificates, cloud tenants, and the usage of Azure Key Vault for cryptographic keys, secrets, and certificates management. It also explores Azure Web Application Gateway, Azure Front Door, and the implementation of a Web Application Firewall (WAF) for enhanced security. In addition to building technical skills, the project promotes a comprehensive understanding of cloud-based web application security, data protection, and secure web development practices.
+This project covers key aspects of cybersecurity, including IP networking, DNS, SSL/TLS certificates, cloud tenants, and the usage of Azure Key Vault. It promotes a comprehensive understanding of cloud-based web application security, data protection, and secure web development practices.
 
 ### [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
 
-This repository documents my experience, assignments and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking
-
-### [Cybersecurity-Scripts](https://github.com/lodoelama/cybersecurity-scripts)
-
-A collection of Red Team and Blue Team scripts including automation, penetration testing, and vulnerability scanning tasks. The repository contains a variety of Bash and Python scripts for common tasks, as well as examples of how they can be applied in real-world scenarios.
-
-
-
-
-
+This repository documents my experience, assignments, and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking.
 
 ## 💼 **Experience**:
 
@@ -63,9 +48,6 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 - 💻 Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
 - 🐍 Python 3 Programming - Codecademy (In Progress)
 
-
-
-
 ## 💻 **Programming Languages**:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,3 +66,7 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 ![Snort](https://img.shields.io/badge/-Snort-F0E68C?style=for-the-badge&logo=appveyor&logoColor=black)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASPZAP-228B22?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+## 📫 **Contact Me**:
+
+I'm currently open to cybersecurity opportunities and would love to hear from you. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lodoelama/) or via [Email](mailto:lodoelama@gmail.com).
