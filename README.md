@@ -22,7 +22,7 @@
 
 Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology, I am eager to pursue a career in cybersecurity. I understand the importance of creating a strong foundation in this field, and I am actively working towards refining my skills through ongoing education and practical experience.
 
-# Projects
+# 🚀 Projects:
 ## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 
 This project entails the design, development, and deployment of a secure web application hosted on Azure. It covers key aspects of cybersecurity, including IP networking, DNS, SSL/TLS certificates, cloud tenants, and the usage of Azure Key Vault for cryptographic keys, secrets, and certificates management. It also explores Azure Web Application Gateway, Azure Front Door, and the implementation of a Web Application Firewall (WAF) for enhanced security. In addition to building technical skills, the project promotes a comprehensive understanding of cloud-based web application security, data protection, and secure web development practices.
@@ -47,16 +47,23 @@ A collection of Red Team and Blue Team scripts including automation, penetration
 - Legal research
 - Client management
 
-# 🎓 **Education & Certifications**:
-- Cybersecurity certification from Columbia Engineering Boot Camps (In Progress)
-- Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
-- Networking Essentials - CISCO Networking Academy (In Progress)
-- AWS and Azure cloud security introductory certifications (In Progress)
-- Hands-on web application security experience - Portswigger Web Academy (In Progress)
-- Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
-- CompTIA Security+ Certification (In Progress)
-- Python 3 programming - Codecademy (In Progress)
-- Paralegal Certification - Washington Technical Institute
+## 🎓 Education:
+
+- 🏫 Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
+- ☁️ AWS and Azure Cloud Security Introductory Certifications (In Progress)
+- 🛡️ CompTIA Security+ Certification (In Progress)
+- ⚖️ Paralegal Certification - Washington Technical Institute (Completed)
+
+## 📚 Additional Training:
+
+- 👨‍💻 Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
+- 🌐 Networking Essentials - CISCO Networking Academy (In Progress)
+- 🕸️ Hands-on Web Application Security Experience - Portswigger Web Academy (In Progress)
+- 💻 Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
+- 🐍 Python 3 Programming - Codecademy (In Progress)
+
+
+
 
 # 💻 **Programming Languages**:
 
