@@ -47,7 +47,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 
 
-In this Capture The Flag (CTF) challenge, I navigated through a web application named 'Rekall,' leveraging my knowledge of various web application vulnerabilities to uncover 15 hidden flags. Each flag represented a unique security flaw, exposing weaknesses in areas such as Cross-Site Scripting (XSS), SQL Injection, Local File Inclusion (LFI), Command Injection, Brute Force Attacks, PHP Injection, Session Management, and Directory Traversal.Through this exercise, I strengthened my skills in HTML, PHP, JavaScript, and networking concepts like HTTP
+- Participated in a Capture The Flag (CTF) challenge focused on web application security.
+- Successfully navigated through a web application named 'Rekall' to uncover 15 hidden flags.
+- Demonstrated expertise in identifying and exploiting various web application vulnerabilities, including XSS, SQL Injection, LFI, and Command Injection.
+- Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
+
 
 ## 🎓 Education:
 
