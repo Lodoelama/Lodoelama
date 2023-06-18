@@ -11,12 +11,6 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br/> 
-</p>
-<p align="center">
-  <a href="https://github.com/Lodoelama">
-    <img src="https://komarev.com/ghpvc/?username=Lodoelama&color=blue&style=flat" alt="Profile Views">
-  </a>
-</p>
 
 ## 🚀 About Me
 
