@@ -43,7 +43,7 @@ I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ### [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
 
-![rekall](https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5)
+<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="500">
 
 
 
