@@ -28,7 +28,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
 ## 🔧 Highlighted Projects:
 
-## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
+## [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 
 <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
 
