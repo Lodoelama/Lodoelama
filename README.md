@@ -25,9 +25,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ## 💼 **Experience**:
 
 *Paralegal* at Everest Consultancy Services (Present)
-- Prepared and reviewed legal documents, ensuring accuracy and compliance with regulations.
 - Assisted in resolving technical issues within the office, including software installation, network connectivity problems, and basic system troubleshooting.
-- Managed and protected sensitive client data, demonstrating a strong understanding of data security and privacy.
 - Developed proficiency in software tools used for legal research and document preparation.
 
 *Cybersecurity Bootcamp Participant* at Columbia Engineering Boot Camps (In Progress)
