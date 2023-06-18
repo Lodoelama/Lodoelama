@@ -53,7 +53,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
-- AWS and Azure Cloud Security Introductory Certifications (In Progress)
+- AWS Certification - Security - Specialty (In Progress)
 - CompTIA Security+ Certification (In Progress)
 - Paralegal Certification - Washington Technical Institute (Completed)
 
@@ -84,7 +84,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Nmap](https://img.shields.io/badge/-Nmap-0779A7?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-EE3333?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)
+![Splunk](https://img.shields.io/badge/-John%20the%20Ripper-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/-Hashcat-9370DB?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-00FFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
