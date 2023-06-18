@@ -51,18 +51,18 @@ In this Capture The Flag (CTF) challenge, I navigated through a web application 
 
 ## 🎓 Education:
 
-- 🏫 Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
-- ☁️ AWS and Azure Cloud Security Introductory Certifications (In Progress)
-- 🛡️ CompTIA Security+ Certification (In Progress)
-- ⚖️ Paralegal Certification - Washington Technical Institute (Completed)
+- Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
+- AWS and Azure Cloud Security Introductory Certifications (In Progress)
+- CompTIA Security+ Certification (In Progress)
+- Paralegal Certification - Washington Technical Institute (Completed)
 
 ## 📚 Additional Training:
 
-- 👨‍💻 Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
-- 🌐 Networking Essentials - CISCO Networking Academy (In Progress)
-- 🕸️ Hands-on Web Application Security Experience - Portswigger Web Academy (In Progress)
-- 💻 Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
-- 🐍 Python 3 Programming - Codecademy (In Progress)
+- Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
+- Networking Essentials - CISCO Networking Academy (In Progress)
+- Hands-on Web Application Security Experience - Portswigger Web Academy (In Progress)
+- Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
+- Python 3 Programming - Codecademy (In Progress)
 
 ## 💻 **Programming Languages**:
 
@@ -73,7 +73,7 @@ In this Capture The Flag (CTF) challenge, I navigated through a web application 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## OS
+## 👨‍💻 **OS**:
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
