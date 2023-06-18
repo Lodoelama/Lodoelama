@@ -27,25 +27,20 @@ I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal wit
 *Cybersecurity Bootcamp Participant* at Columbia Engineering Boot Camps (In Progress)
 - Completed several projects related to network security, penetration testing, and ethical hacking.
 - Gained practical experience in various cybersecurity concepts and tools.
-
+![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
 ## 🔨🔧 Highlighted Projects
 
 ### [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 
 <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/9ae02404-ddd6-4d64-9315-4d09894ffc0b" alt="Cloud Network Infrastructure" width="400">
-
-
-
 - Designed, developed, and deployed a secure web application hosted on Azure.
 - Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-### [Columbia Cybersecurity Bootcamp](https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp)
+### [Web Application CTF writeup]([https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md))
 
-![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
-
-This repository documents my experience, assignments, and projects completed during the Columbia Engineering Boot Camp for Cybersecurity. It includes projects related to network security, penetration testing, and ethical hacking.
+In this Capture The Flag (CTF) challenge, I navigated through a web application named 'Rekall,' leveraging my knowledge of various web application vulnerabilities to uncover 15 hidden flags. Each flag represented a unique security flaw, exposing weaknesses in areas such as Cross-Site Scripting (XSS), SQL Injection, Local File Inclusion (LFI), Command Injection, Brute Force Attacks, PHP Injection, Session Management, and Directory Traversal.Through this exercise, I strengthened my skills in HTML, PHP, JavaScript, and networking concepts like HTTP
 
 ## 🎓 Education:
 
