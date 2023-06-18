@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=DarkSlateGray&size=36&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Lodoe+Lama;Aspiring+Cybersecurity+Specialist&speed=300" alt="Typing SVG" />
-    <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="100px" alt="👋">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=DarkSlateGray&size=36&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Lodoe+Lama;Aspiring+Cybersecurity+Specialist&speed=500" alt="Typing SVG" />
   </a>
 
 <br/>
