@@ -32,9 +32,9 @@ I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
 ## 🔨🔧 Highlighted Projects
 
-## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
+## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 
-<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/9ae02404-ddd6-4d64-9315-4d09894ffc0b" alt="Cloud Network Infrastructure" width="550">
+<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
 
 
 - Designed, developed, and deployed a secure web application hosted on Azure.
