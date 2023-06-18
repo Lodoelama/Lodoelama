@@ -40,7 +40,7 @@ I'm Lodoe Lama, an aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-### [Web Application CTF writeup]([https://github.com/lodoelama/Columbia-Cybersecurity-Bootcamp](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md))
+### [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
 
 In this Capture The Flag (CTF) challenge, I navigated through a web application named 'Rekall,' leveraging my knowledge of various web application vulnerabilities to uncover 15 hidden flags. Each flag represented a unique security flaw, exposing weaknesses in areas such as Cross-Site Scripting (XSS), SQL Injection, Local File Inclusion (LFI), Command Injection, Brute Force Attacks, PHP Injection, Session Management, and Directory Traversal.Through this exercise, I strengthened my skills in HTML, PHP, JavaScript, and networking concepts like HTTP
 
