@@ -49,6 +49,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Demonstrated expertise in identifying and exploiting various web application vulnerabilities, including XSS, SQL Injection, LFI, and Command Injection.
 - Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
 
+## [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
+<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/67f8da77-9510-4d17-8de5-6b3f14a7c089" alt="Cloud Network Infrastructure" width="550">
+
+- Developed a robust SQL Injection Scanner tool, leveraging Python and SQL knowledge, to identify and exploit SQL Injection vulnerabilities in web applications.
+- Strengthened expertise in web application security, SQL, and penetration testing methodologies, ensuring the creation of a reliable and effective tool for identifying and mitigating SQL Injection risks.
 
 ## 🎓 Education:
 
