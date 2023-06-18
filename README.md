@@ -29,7 +29,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Completed several projects related to network security, penetration testing, and ethical hacking.
 - Gained practical experience in various cybersecurity concepts and tools.
 ![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
-## 🔨🔧 Highlighted Projects
+## 🔧 Highlighted Projects:
 
 ## [Azure-Based Cybersecurity Implementation: A Comprehensive Web Application Project](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 
