@@ -90,11 +90,14 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0779A7?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-EE3333?style=for-the-badge&logo=appveyor&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF6400?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort-F0E68C?style=for-the-badge&logo=appveyor&logoColor=black)
-![OWASP ZAP](https://img.shields.io/badge/-OWASPZAP-228B22?style=for-the-badge&logo=appveyor&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-EE3333?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)
+![Hashcat](https://img.shields.io/badge/-Hashcat-9370DB?style=for-the-badge&logo=appveyor&logoColor=white)
+![Netcat](https://img.shields.io/badge/-Netcat-00FFFF?style=for-the-badge&logo=appveyor&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/-Recon--ng-222222?style=for-the-badge&logo=appveyor&logoColor=white)
+![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
 
 
 
