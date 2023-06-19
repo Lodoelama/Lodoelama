@@ -72,7 +72,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Intro to Computer Science - Harvard CS50's Introduction to Computer Science
 - Python 3 Programming - Codecademy
 
-## :memo: [Resume](https://docs.google.com/document/d/1anVmDjva6WVk1PZN7HDuJ9hr4YlUK5BV9iuz94O7oOo/edit?usp=sharing)
+## :memo: [Resume](https://docs.google.com/document/d/1EzqcQWe5SqVOr1Zg6cZonxwq5o0DphLn863XHxMc5sc/edit?usp=sharing)
 
 ## 💻 **Programming Languages**:
 
