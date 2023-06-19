@@ -26,15 +26,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Completed several projects related to network security, penetration testing, and ethical hacking.
 - Gained practical experience in various cybersecurity concepts and tools.
 ![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
+
 ## 🔧 Highlighted Projects:
 
 <p align="center">
-
-# [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
-
-</p>
-
-<p align="center">
+  <h1><a href="https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main">Securing Cloud Apps</a></h1>
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
 </p>
 
@@ -44,15 +40,9 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Demonstrated proficiency in cloud security and web application security principles.
 
 <p align="center">
-
-# [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
-
-</p>
-
-<p align="center">
+  <h1><a href="https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md">Web Application CTF writeup</a></h1>
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
 </p>
-
 
 - Participated in a Capture The Flag (CTF) challenge focused on web application security.
 - Successfully navigated through a web application named 'Rekall' to uncover 15 hidden flags.
@@ -60,12 +50,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
 
 <p align="center">
-
-# [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
-
-</p>
-
-<p align="center">
+  <h1><a href="https://github.com/Lodoelama/SQL-Injection-Scanner">SQL Injection Scanner</a></h1>
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/31e7b8eb-d336-4626-b7ab-0e5f542f1f52" alt="SQL Injection Scanner" width="550">
 </p>
 
