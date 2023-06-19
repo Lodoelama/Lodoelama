@@ -30,8 +30,9 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ## [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 
-<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
-
+<p align="center">
+  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
+</p>
 
 - Designed, developed, and deployed a secure web application hosted on Azure.
 - Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
@@ -40,8 +41,9 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ## [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
 
-<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
-
+<p align="center">
+  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
+</p>
 
 
 - Participated in a Capture The Flag (CTF) challenge focused on web application security.
