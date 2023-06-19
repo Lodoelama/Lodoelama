@@ -52,7 +52,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ## [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
 
 <p align="center">
-  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/67f8da77-9510-4d17-8de5-6b3f14a7c089" alt="SQL Injection Scanner" width="550">
+  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/31e7b8eb-d336-4626-b7ab-0e5f542f1f52" alt="SQL Injection Scanner" width="550">
 </p>
 
 - Built a SQL Injection Scanner in Python to help identify potential vulnerabilities in web applications, improving my skills in web security.
