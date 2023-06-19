@@ -28,7 +28,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
 ## 🔧 Highlighted Projects:
 
-## [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
+<p align="center">
+
+# [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
+
+</p>
 
 <p align="center">
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
@@ -39,7 +43,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-## [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
+<p align="center">
+
+# [Web Application CTF writeup](https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
+
+</p>
 
 <p align="center">
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
@@ -51,7 +59,11 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Demonstrated expertise in identifying and exploiting various web application vulnerabilities, including XSS, SQL Injection, LFI, and Command Injection.
 - Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
 
-## [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
+<p align="center">
+
+# [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
+
+</p>
 
 <p align="center">
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/31e7b8eb-d336-4626-b7ab-0e5f542f1f52" alt="SQL Injection Scanner" width="550">
