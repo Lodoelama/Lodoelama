@@ -50,10 +50,12 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
 
 ## [SQL Injection Scanner](https://github.com/Lodoelama/SQL-Injection-Scanner)
-<img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/67f8da77-9510-4d17-8de5-6b3f14a7c089" alt="Cloud Network Infrastructure" width="550">
+
+<p align="center">
+  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/67f8da77-9510-4d17-8de5-6b3f14a7c089" alt="SQL Injection Scanner" width="550">
+</p>
 
 - Built a SQL Injection Scanner in Python to help identify potential vulnerabilities in web applications, improving my skills in web security.
-
 - Utilized knowledge of SQL and penetration testing methodologies to create a tool that aids in detecting and mitigating SQL Injection risks, furthering my understanding of web application security.
 
 ## 🎓 Education:
@@ -63,13 +65,13 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - CompTIA Security+ Certification (In Progress)
 - Paralegal Certification - Washington Technical Institute (Completed)
 
-## 📚 Additional Training:
+## 📚 Additional Training (In Progress):
 
-- Practical Ethical Hacking and Web Application Security - TCM Security Academy (In Progress)
-- Networking Essentials - CISCO Networking Academy (In Progress)
-- Hands-on Web Application Security Experience - Portswigger Web Academy (In Progress)
-- Intro to Computer Science - Harvard CS50's Introduction to Computer Science (In Progress)
-- Python 3 Programming - Codecademy (In Progress)
+- Practical Ethical Hacking and Web Application Security - TCM Security Academy
+- Networking Essentials - CISCO Networking Academy
+- Hands-on Web Application Security Experience - Portswigger Web Academy
+- Intro to Computer Science - Harvard CS50's Introduction to Computer Science
+- Python 3 Programming - Codecademy
 
 ## 💻 **Programming Languages**:
 
@@ -96,6 +98,3 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Recon-ng](https://img.shields.io/badge/-Recon--ng-222222?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
-
-
-
