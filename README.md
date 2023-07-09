@@ -40,22 +40,15 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Demonstrated proficiency in cloud security and web application security principles.
 
 <p align="center">
-  <h1><a href="https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md">Web Application CTF writeup</a></h1>
+  <h1><a href="https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main">Offensive Security CTF Project</a></h1>
   <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
 </p>
 
-- Participated in a Capture The Flag (CTF) challenge focused on web application security.
-- Successfully navigated through a web application named 'Rekall' to uncover 15 hidden flags.
-- Demonstrated expertise in identifying and exploiting various web application vulnerabilities, including XSS, SQL Injection, LFI, and Command Injection.
-- Strengthened proficiency in HTML, PHP, JavaScript, and networking concepts related to HTTP.
+- Conducted a comprehensive Offensive Security CTF project focusing on web application security, Linux servers, and Windows servers.
+- Successfully identified and exploited various vulnerabilities, such as XSS, SQL Injection, LFI, Command Injection, Brute Force Attacks, and Remote Code Execution.
+- Demonstrated expertise in HTML, PHP, JavaScript, and networking concepts related to HTTP, as well as Linux and Windows server vulnerabilities.
+- Created concise write-ups and a detailed report outlining the challenges, methodologies, and potential security risks for future reference and mitigation.
 
-<p align="center">
-  <h1><a href="https://github.com/Lodoelama/SQL-Injection-Scanner">SQL Injection Scanner</a></h1>
-  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/31e7b8eb-d336-4626-b7ab-0e5f542f1f52" alt="SQL Injection Scanner" width="550">
-</p>
-
-- Built a SQL Injection Scanner in Python to help identify potential vulnerabilities in web applications, improving my skills in web security.
-- Utilized knowledge of SQL and penetration testing methodologies to create a tool that aids in detecting and mitigating SQL Injection risks, furthering my understanding of web application security.
 
 ## 🎓 Education:
 
