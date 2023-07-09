@@ -66,7 +66,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ## 📚 Additional Training (In Progress):
 
-- Practical Ethical Hacking and Web Application Security - TCM Security Academy
+- Practical Ethical Hacking, Web Application Security and Practical Malware Analysis Triage - TCM Security Academy
 - Networking Essentials - CISCO Networking Academy
 - Hands-on Web Application Security Experience - Portswigger Web Academy
 - Intro to Computer Science - Harvard CS50's Introduction to Computer Science
