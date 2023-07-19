@@ -50,6 +50,16 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Created concise write-ups and a detailed report outlining the challenges, methodologies, and potential security risks for future reference and mitigation.
 
 
+<p align="center">
+  <h1><a href="https://github.com/Lodoelama/Defensive-Security-Project">Defensive Security Project</a></h1>
+  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/c1fd6acb-da7b-4c42-bafa-963b8e4746fe" alt="Cloud Network Infrastructure" width="550">
+</p>
+
+- Worked in a team of two to design a custom monitoring environment to protect a fictional organization, VSI.
+- Utilized Splunk to research and design a comprehensive monitoring solution.
+- Assessed the effectiveness of the monitoring solution against simulated attacks.
+- Prepared and delivered a group presentation showcasing the defensive project.
+
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
