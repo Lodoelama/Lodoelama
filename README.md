@@ -62,8 +62,8 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ## 🎓 Education:
 
-- Cybersecurity Certification - Columbia Engineering Boot Camps (In Progress)
-- AWS Certification - Security - Specialty (In Progress)
+- Cybersecurity Certification - Columbia Engineering Boot Camps 
+- AWS Certification - Certified Soutions architect (In Progress)
 - CompTIA Security+ Certification (In Progress)
 - Paralegal Certification - Washington Technical Institute (Completed)
 
@@ -102,3 +102,4 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Recon-ng](https://img.shields.io/badge/-Recon--ng-222222?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![SQLMap](https://img.shields.io/badge/-SQLMap-EE3333?style=for-the-badge&logo=shodan&logoColor=white)
