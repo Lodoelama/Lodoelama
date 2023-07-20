@@ -103,3 +103,4 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Recon-ng](https://img.shields.io/badge/-Recon--ng-222222?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-EE3333?style=for-the-badge&logo=shodan&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Burp%20Suite-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
