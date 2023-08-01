@@ -3,9 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1200&height=180&lines=root%40kali%3A~%23+python3+exploit.py;Launcing+script...;Running+exploit...;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lodoelama&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 
 
 <br/>
@@ -110,3 +107,5 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![SQLMap](https://img.shields.io/badge/-SQLMap-EE3333?style=for-the-badge&logo=shodan&logoColor=white)
 ![Nessus](https://img.shields.io/badge/-Nessus-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Autopsy-9370DB?style=for-the-badge&logo=burp%20suite&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lodoelama&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
