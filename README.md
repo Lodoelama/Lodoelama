@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=print(%22Running+exploit...%22);print(%22Exploit+successful!%22);print(%22Opening+Meterpreter...%22);print(%22You+have+been+pwned!%22)&speed=500" alt="Typing SVG" style="background-color: black;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=msfconsole+>;use+exploit%2Fmulti%2Fhandler;msfconsole+>;set+payload+python%2Fmeterpreter%2Freverse_tcp;msfconsole+>;exploit;msfconsole+>;Successfully+created+a+reverse+shell!&speed=500" alt="Typing SVG" style="background-color: black;" />
 </a>
+
 
 
 
