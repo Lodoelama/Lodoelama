@@ -2,7 +2,6 @@
 
 <a href="https://github.com/Lodoelama"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1000&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
 
-[![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
 
 
 
@@ -109,3 +108,4 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Burp Suite](https://img.shields.io/badge/-Autopsy-9370DB?style=for-the-badge&logo=burp%20suite&logoColor=white)
 
 
+[![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
