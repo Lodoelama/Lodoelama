@@ -1,20 +1,22 @@
+<h1 align="center"><b>Hi, I'm Lodoe Lama </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+  <a href="https://github.com/Lodoelama"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1000&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
+</p>
 
-<a href="https://github.com/Lodoelama"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1000&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
-
-
-
-
-<br/>
-<a href="https://www.linkedin.com/in/lodoelama/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/lodoelama/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:lodoelama@gmail.com">
+  </a>
+  <a href="mailto:lodoelama@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<br/> 
+  </a>
+</p>
 
-## 🚀 About Me
+<a target="_blank" align="right">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
 
@@ -28,35 +30,21 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Completed several projects related to network security, penetration testing, and ethical hacking.
 - Gained practical experience in various cybersecurity concepts and tools.
 
+## 🔧 Highlighted Projects:
 
-# 🔧 Highlighted Projects:
-
-<p align="center">
-  <h1><a href="https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main">Securing Cloud Apps</a></h1>
-  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/de98753f-c80c-4a9a-8ce0-3efdfdbbe9c9" alt="Cloud Network Infrastructure" width="550">
-</p>
-
+[Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 - Designed, developed, and deployed a secure web application hosted on Azure.
 - Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-<p align="center">
-  <h1><a href="https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main">Offensive Security CTF Project</a></h1>
-  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/cc3bda2a-c11c-4d68-9918-a3070ca71eb5" alt="Cloud Network Infrastructure" width="550">
-</p>
-
+[Offensive Security CTF Project](https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main)
 - Conducted a comprehensive Offensive Security CTF project focusing on web application security, Linux servers, and Windows servers.
 - Successfully identified and exploited various vulnerabilities, such as XSS, SQL Injection, LFI, Command Injection, Brute Force Attacks, and Remote Code Execution.
 - Demonstrated expertise in HTML, PHP, JavaScript, and networking concepts related to HTTP, as well as Linux and Windows server vulnerabilities.
 - Created concise write-ups and a detailed report outlining the challenges, methodologies, and potential security risks for future reference and mitigation.
 
-
-<p align="center">
-  <h1><a href="https://github.com/Lodoelama/Defensive-Security-Project">Defensive Security Project</a></h1>
-  <img src="https://github.com/Lodoelama/Lodoelama/assets/125059539/c1fd6acb-da7b-4c42-bafa-963b8e4746fe" alt="Cloud Network Infrastructure" width="550">
-</p>
-
+[Defensive Security Project](https://github.com/Lodoelama/Defensive-Security-Project)
 - Worked in a team of two to design a custom monitoring environment to protect a fictional organization, VSI.
 - Utilized Splunk to research and design a comprehensive monitoring solution.
 - Assessed the effectiveness of the monitoring solution against simulated attacks.
@@ -65,7 +53,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia Engineering Boot Camps 
-- AWS Certification - Certified Soutions architect (In Progress)
+- AWS Certification - Certified Solutions architect (In Progress)
 - CompTIA Security+ Certification (In Progress)
 - Paralegal Certification - Washington Technical Institute (Completed)
 
@@ -76,8 +64,6 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 - Hands-on Web Application Security Experience - Portswigger Web Academy
 - Intro to Computer Science - Harvard CS50's Introduction to Computer Science
 - Python 3 Programming - Codecademy
-
-
 
 ## 💻 **Programming Languages**:
 
@@ -107,5 +93,17 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 ![Nessus](https://img.shields.io/badge/-Nessus-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Autopsy-9370DB?style=for-the-badge&logo=burp%20suite&logoColor=white)
 
-
 [![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
+
+---
+
+<h3 align="center">Connect with me 🤝 </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lodoelama/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <a href="mailto:lodoelama@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
+  </a>
+</p>
