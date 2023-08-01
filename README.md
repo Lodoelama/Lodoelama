@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=import+subprocess;command+=+%22ls+-la%22;process+=+subprocess.Popen(command,+shell=True);process.communicate()&speed=500" alt="Typing SVG" style="background-color: black;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=01011001+01101111+01110101;00100000+01101000+01100001+01110110+01100101;00100000+01100010+01100101+01100101+01101110;00100000+01110000+01110111+01101110+01100101+01100100%21&speed=500" alt="Typing SVG" style="background-color: black;" />
 </a>
+
 
 
 
