@@ -1,16 +1,7 @@
 <h1 align="center"><b>Hi, I'm Lodoe Lama </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/Lodoelama"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1000&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lodoelama/">
-    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lodoelama@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 <a target="_blank" align="right">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
