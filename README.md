@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!&speed=500" alt="Typing SVG" style="background-color: black;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!&speed=100" alt="Typing SVG" style="background-color: black;" />
 </a>
 
 
