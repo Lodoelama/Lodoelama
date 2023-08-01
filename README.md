@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=25&center=true&vCenter=true&multiline=true&width=1000&height=1000&lines=msfconsole+>use+exploit%2Fmulti%2Fhandler;msfconsole+>set+payload+python%2Fmeterpreter%2Freverse_tcp;msfconsole+>exploit;msfconsole+>Successfully+created+a+reverse+shell!&speed=500" alt="Typing SVG" style="background-color: black;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=25&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=msfconsole+>use+exploit%2Fmulti%2Fhandler;msfconsole+>set+payload+python%2Fmeterpreter%2Freverse_tcp;msfconsole+>exploit;msfconsole+>Successfully+created+a+reverse+shell!&speed=500" alt="Typing SVG" style="background-color: black;" />
 </a>
 
 
