@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://github.com/Lodoelama">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=01011001+01101111+01110101;00100000+01101000+01100001+01110110+01100101;00100000+01100010+01100101+01100101+01101110;00100000+01110000+01110111+01101110+01100101+01100100%21&speed=500" alt="Typing SVG" style="background-color: black;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=%2300FF00&size=30&center=true&vCenter=true&multiline=true&width=800&height=150&lines=import+socket;target+=+%22localhost%22;for+port+in+range(1,+1024):;s+=+socket.socket(socket.AF_INET,+socket.SOCK_STREAM);result+=+s.connect_ex((target,+port));if+result+==+0:+print(%22Port+%22+str(port)+%22+is+open%22);s.close()&speed=500" alt="Typing SVG" style="background-color: black;" />
 </a>
+
 
 
 
