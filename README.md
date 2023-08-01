@@ -5,7 +5,6 @@
 [![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayantaniDeb)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <a href="https://www.linkedin.com/in/lodoelama/">
