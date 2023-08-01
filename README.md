@@ -16,7 +16,16 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<br>
+
+
+
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
 
