@@ -2,9 +2,10 @@
 
 <a href="https://github.com/Lodoelama"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=1000&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
 
-[![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=;Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
+[![Lodoe Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lodoelama)](https://github.com/Lodoelama/github-readme-stats)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayantaniDeb)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <a href="https://www.linkedin.com/in/lodoelama/">
