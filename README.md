@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=8000&pause=500&color=3CC500&background=000000&multiline=true&width=1200&height=200&lines=python3+exploit.py;Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=8000&pause=500&color=3CC500&background=000000&multiline=true&width=1200&height=180&lines=root@kali:~#+python3+exploit.py;Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" />
 </a>
 
 
