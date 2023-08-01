@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=8000&pause=1000&color=3CC500&background=000000&multiline=true&width=435&height=150&lines=Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&duration=8000&pause=1000&color=3CC500&background=000000&multiline=true&width=1200&height=150&lines=Initiating+sequence...;Running+exploit...;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" /></a>
 
 
 
