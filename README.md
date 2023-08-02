@@ -5,14 +5,22 @@
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<table>
+<tr>
+<td valign="top" width="60%">
 
-![Hacker GIF](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
-
-
-
+## About me
 
 I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
+
+</td>
+<td valign="top" width="40%">
+
+<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## 💼 **Experience**:
 
