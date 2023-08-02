@@ -7,8 +7,16 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<style>
+  .responsive-gif {
+    width: 100%; /* This will make the image take the full width of its container */
+    max-width: 250px; /* This will limit the image's maximum width */
+  }
+</style>
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" class="responsive-gif">
+</picture>
 	
 
 
