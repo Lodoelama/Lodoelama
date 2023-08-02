@@ -18,13 +18,21 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal wit
 
 ## 💼 **Experience**:
 
-*Paralegal* at Everest Consultancy Services (Present)
-- Assisted in resolving technical issues within the office, including software installation, network connectivity problems, and basic system troubleshooting.
-- Developed proficiency in software tools used for legal research and document preparation.
+*Columbia University Engineering Cyber Security Program* (02/2023 - 08/2023)
+- Monitored simulated network traffic using Wireshark to identify payload transfers, URL requests, login and password information, along with other security-specific traffic.
+- Identified and configured payloads based on previously enumerated focal points of vulnerability with Metasploit and SearchSploit Utilized both frameworks to initiate bind and reverse shells in laboratory settings.
+- Experienced with cross-site scripting (XSS) and SQL injections in laboratory settings to enumerate server vulnerabilities, as well as configuring servers for input-validation to mitigate XSS vulnerabilities.
+- Built virtual networks, virtual machines, configured availability sets, security groups, and restricted internal/external traffic on Microsoft Azure Cloud platform. 
+- Strong understanding of cryptographic encryption and hashing, both symmetric (AES-128, 192, 256) and asymmetric (RSA, Diffie-Hellman), subsequent hashing algorithms: SHA, SHA2, MD, LM, and NTLM.
+- Automated VM deployments and configurations using Ansible.
+- Analyzed logs and monitored alerts through Splunk to identify malicious actors and developed incident response reports.
+- Configured firewalls to deny traffic on hosts and networks.
 
-*Cybersecurity Bootcamp Participant* at Columbia Engineering Boot Camps (In Progress)
-- Completed several projects related to network security, penetration testing, and ethical hacking.
-- Gained practical experience in various cybersecurity concepts and tools.
+*Everest Consulting Services Inc, Paralegal* (2021 - Present)
+- Prepared and reviewed legal documents, demonstrating meticulous attention to detail and compliance with regulations.
+- Utilized various software tools for legal research and document preparation, showcasing adaptability in learning and using new technologies.
+- Managed and protected sensitive client data, demonstrating a strong understanding of data security and privacy.
+
 
 ## 🔧 Highlighted Projects:
 
