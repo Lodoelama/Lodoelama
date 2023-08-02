@@ -12,7 +12,7 @@
 
 
 
-I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
+I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
 
 ## 💼 **Experience**:
 
