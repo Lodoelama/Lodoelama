@@ -7,17 +7,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<style>
-  .responsive-gif {
-    width: 100%; /* This will make the image take the full width of its container */
-    max-width: 250px; /* This will limit the image's maximum width */
-  }
-</style>
-
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" class="responsive-gif">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="50%">
 </picture>
-	
+
 
 
 I'm Lodoe Lama, an Aspiring Cybersecurity Specialist and dedicated Paralegal with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
