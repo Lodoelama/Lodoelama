@@ -7,8 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div class="tenor-gif-embed" data-postid="26522638" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-26522638">Hacker GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Hacker GIF](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true)
 
 
 
