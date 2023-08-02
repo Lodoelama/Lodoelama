@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-![Hacker GIF](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true)
+![Hacker GIF](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
 
 
 
