@@ -4,7 +4,7 @@
 
 
 
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="100%">
+<img src="https://gifdb.com/images/high/hacker-hacking-in-the-dark-h2fu99nutzo132op.gif" width="100%">
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About me
 
