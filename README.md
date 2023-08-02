@@ -9,7 +9,7 @@
 <tr>
 <td valign="top" width="60%">
 
-## About me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About me
 
 I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience, with a focus on cybersecurity. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
 
@@ -21,6 +21,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 </td>
 </tr>
 </table>
+
 
 ## 💼 **Experience**:
 
