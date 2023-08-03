@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-pro%3A~%23+skills_showcase.py;Certifications%3A+AWS%2C+CompTIA+Security%2B...;Experience%3A+Wireshark%2C+Metasploit%2C+Azure...;Projects%3A+Offensive+Security%2C+Defensive+Security...;Training%3A+Ethical+Hacking%2C+Web+Security...;Passion%3A+Securing+the+Digital+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=150&lines=Welcome+to+Lodoe+Lama's+Digital+Fortress;Aspiring+Cybersecurity+Professional;Innovator+in+Offensive+%26+Defensive+Security;Committed+to+Securing+the+Digital+World;Connect+with+Me+for+Collaboration+%26+Insights!" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
