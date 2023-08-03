@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=400&height=160&lines=root%40kali%3A~%23+python3+exploit.py;Launching+script+.+.+.;Running+exploit+.+.+.;Exploit+successful!;You+have+been+pwned!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40bug-hunter%3A~%23+start_bug_bounty.py;Recon+with+crt.sh%2C+Shodan%2C+Amass%2C+SpiderFoot...;Scanning+with+Nmap%2C+Nikto%2C+Dirbuster+.+.+.;Vuln+Analysis+with+OpenVAS%2C+Wapiti%2C+SQLmap...;Exploiting+with+Metasploit%2C+BeEF%2C+XSS+Strike+.+.+.;Traffic+Analysis+with+Wireshark%2C+Fiddler...;Reporting+with+Dradis%3A+Security+Unleashed!" alt="Typing SVG" />
   </a>
 </p>
+
 
 <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="60%" align="right">
 
