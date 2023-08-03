@@ -13,7 +13,7 @@
 
 
 
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="50%" align="right">
+<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="45%" align="right">
 
 
 
