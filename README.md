@@ -38,24 +38,23 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 
 ## 🔧 Highlighted Projects:
 
-## [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
+## 🔒 [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
 - Designed, developed, and deployed a secure web application hosted on Azure.
 - Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-## [Offensive Security CTF Project](https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main)
+## 🎯 [Offensive Security CTF Project](https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main)
 - Conducted a comprehensive Offensive Security CTF project focusing on web application security, Linux servers, and Windows servers.
 - Successfully identified and exploited various vulnerabilities, such as XSS, SQL Injection, LFI, Command Injection, Brute Force Attacks, and Remote Code Execution.
 - Demonstrated expertise in HTML, PHP, JavaScript, and networking concepts related to HTTP, as well as Linux and Windows server vulnerabilities.
 - Created concise write-ups and a detailed report outlining the challenges, methodologies, and potential security risks for future reference and mitigation.
 
-## [Defensive Security Project](https://github.com/Lodoelama/Defensive-Security-Project)
+## 🛡️ [Defensive Security Project](https://github.com/Lodoelama/Defensive-Security-Project)
 - Worked in a team of two to design a custom monitoring environment to protect a fictional organization, VSI.
 - Utilized Splunk to research and design a comprehensive monitoring solution.
 - Assessed the effectiveness of the monitoring solution against simulated attacks.
 - Prepared and delivered a group presentation showcasing the defensive project.
-
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia Engineering Boot Camps 
