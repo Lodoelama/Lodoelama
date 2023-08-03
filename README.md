@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40bug-hunter%3A~%23+start_bug_bounty.py;Recon+with+crt.sh%2C+Shodan%2C+Amass%2C+SpiderFoot...;Scanning+with+Nmap%2C+Nikto%2C+Dirbuster+.+.+.;Vuln+Analysis+with+OpenVAS%2C+Wapiti%2C+SQLmap...;Exploiting+with+Metasploit%2C+BeEF%2C+XSS+Strike+.+.+.;Traffic+Analysis+with+Wireshark%2C+Fiddler...;Reporting+with+Dradis%3A+Security+Unleashed!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-guardian%3A~%23+initiate_security_audit.py;Reconnaissance%3A+Uncovering+Shadows+with+Shodan%2C+Recon-ng...;Vulnerability+Assessment%3A+Probing+with+Nessus%2C+Nmap%2C+SQLMap...;Exploitation%3A+Strategizing+Attacks+with+Metasploit%2C+BeEF...;Defense%3A+Fortifying+with+Firewalls%2C+Ansible%2C+Hashcat...;Monitoring%3A+Vigilance+with+Wireshark%2C+Splunk%2C+Netcat...;Reporting%3A+Wisdom+in+Action+with+Dradis%3A+Guarding+the+Digital+Realm!" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="60%" align="right">
