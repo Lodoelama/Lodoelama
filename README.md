@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-guardian%3A~%23+initiate_security_audit.py;Reconnaissance%3A+Uncovering+Shadows+with+Shodan%2C+Recon-ng...;Vulnerability+Assessment%3A+Probing+with+Nessus%2C+Nmap%2C+SQLMap...;Exploitation%3A+Strategizing+Attacks+with+Metasploit%2C+BeEF...;Defense%3A+Fortifying+with+Firewalls%2C+Ansible%2C+Hashcat...;Monitoring%3A+Vigilance+with+Wireshark%2C+Splunk%2C+Netcat...;Reporting%3A+Wisdom+in+Action+with+Dradis%3A+Guarding+the+Digital+Realm!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-guardian%3A~%23+launch_security_audit.py;Recon%3A+Shodan%2C+Recon-ng...;Vuln+Assessment%3A+Nessus%2C+Nmap...;Exploit%3A+Metasploit%2C+BeEF...;Defense%3A+Firewalls%2C+Hashcat...;Monitoring%3A+Wireshark%2C+Splunk...;Report%3A+Guarding+the+Digital+Realm!" alt="Typing SVG" />
   </a>
 </p>
 
