@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-guardian%3A~%23+launch_security_audit.py;Recon%3A+Shodan%2C+Recon-ng...;Vuln+Assessment%3A+Nessus%2C+Nmap...;Exploit%3A+Metasploit%2C+BeEF...;Defense%3A+Firewalls%2C+Hashcat...;Monitoring%3A+Wireshark%2C+Splunk...;Report%3A+Guarding+the+Digital+Realm!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=170&lines=root%40cyber-pro%3A~%23+launch_security_assessment.py;Reconnaissance%3A+Shodan%2C+Recon-ng...;Vulnerability+Scan%3A+Nessus%2C+Nmap...;Exploit+Testing%3A+Metasploit%2C+SQLMap...;Network+Monitoring%3A+Wireshark%2C+Splunk...;Report+Generation%3A+Insights+%26+Mitigation" alt="Typing SVG" />
   </a>
 </p>
 
