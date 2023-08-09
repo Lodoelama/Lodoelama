@@ -75,7 +75,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 - Practical Ethical Hacking, Web Application Security and Practical Malware Analysis Triage - TCM Security Academy
 - Networking Essentials - CISCO Networking Academy
 - Hands-on Web Application Security Experience - Portswigger Web Academy
-- Intro to Computer Science - Harvard University CS50P Introduction to Python programming 
+- Harvard University CS50P - Introduction to Python programming 
 - Python 3 Programming - Codecademy
 
 
