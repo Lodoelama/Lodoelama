@@ -105,7 +105,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 ![Nessus](https://img.shields.io/badge/-Nessus-FF6400?style=for-the-badge&logo=burp%20suite&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Autopsy-9370DB?style=for-the-badge&logo=burp%20suite&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lodoelama&theme=tokyonight&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
+
 ---
 
 <h3 align="center">Connect with me 🤝 </h3>
