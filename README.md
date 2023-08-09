@@ -20,7 +20,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-I'm Lodoe Lama, Cybersecurity generalist with a passion for technology. I'm actively working towards refining my skills through ongoing education and practical experience. I'm eager to start my career in cybersecurity and contribute to creating secure digital environments.
+Cybersecurity Specialist with a distinctive blend of technical acumen and legal knowledge. Experienced in enhancing cloud app security, participating in offensive security CTF projects, and creating custom monitoring environments. Committed to lifelong learning and eager to contribute my skills in a dynamic cybersecurity landscape
 
 
 
