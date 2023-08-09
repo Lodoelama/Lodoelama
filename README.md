@@ -20,7 +20,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-Cybersecurity Specialist with a distinctive blend of technical acumen and legal knowledge. Experienced in enhancing cloud app security, participating in offensive security CTF projects, and creating custom monitoring environments. Committed to lifelong learning and eager to contribute my skills in a dynamic cybersecurity landscape
+Cybersecurity Generalist with a distinctive blend of technical acumen and legal knowledge. Experienced in enhancing cloud app security, participating in offensive security CTF projects, and creating custom monitoring environments. Committed to lifelong learning and eager to contribute my skills in a dynamic cybersecurity landscape
 
 
 
