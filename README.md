@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=185&lines=root%40fsociety%3A~%23+initiate_control.py;Decrypting+Corporate+Firewalls+.+.+.;Injecting+Custom+Payload+.+.+.;Bypassing+Intrusion+Detection+Systems+.+.+.;Accessing+Secure+Database+.+.+.;Embrace+the+Digital+Frontier%3A+Control+is+an+Illusion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=800&height=185&lines=root%40kali%3A~%23+initiate_control.py;Decrypting+Corporate+Firewalls+.+.+.;Injecting+Custom+Payload+.+.+.;Bypassing+Intrusion+Detection+Systems+.+.+.;Accessing+Secure+Database+.+.+.;Embrace+the+Digital+Frontier%3A+Control+is+an+Illusion" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 - Prepared and delivered a group presentation showcasing the defensive project.
 ## 🎓 Education:
 
-- Cybersecurity Certification - Columbia Engineering Boot Camps 
+- Cybersecurity Certification - Columbia Engineering Boot Camps (Completed)
 - AWS Certification - Certified Solutions architect (In Progress)
 - CompTIA Security+ Certification (In Progress)
 - Paralegal Certification - Washington Technical Institute (Completed)
@@ -74,7 +74,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 - Practical Ethical Hacking, Web Application Security and Practical Malware Analysis Triage - TCM Security Academy
 - Networking Essentials - CISCO Networking Academy
 - Hands-on Web Application Security Experience - Portswigger Web Academy
-- Intro to Computer Science - Harvard CS50's Introduction to Computer Science
+- Intro to Computer Science - Harvard CS50P Introduction to Python programming 
 - Python 3 Programming - Codecademy
 
 
