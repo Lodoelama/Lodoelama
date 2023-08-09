@@ -64,7 +64,7 @@ I'm Lodoe Lama, an Aspiring Cybersecurity Professional with a passion for techno
 - Prepared and delivered a group presentation showcasing the defensive project.
 ## 🎓 Education:
 
-- Cybersecurity Certification - Columbia Engineering Boot Camps (02/2023 - 08/2023)
+- Cybersecurity Certification - Columbia University (02/2023 - 08/2023)
 - AWS Certification - Certified Solutions architect (07/2023 - present)
 - CompTIA Security+ Certification (08/2023 - present)
 - Paralegal Certification - Washington Technical Institute (02/2020 - 05/2021)
