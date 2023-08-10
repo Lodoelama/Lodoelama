@@ -44,12 +44,17 @@ Cybersecurity Generalist with a distinctive blend of technical acumen and legal 
 
 
 ## 🔧 Highlighted Projects:
+## 🔍 [Dynamic Analysis of WannaCry Ransomware](https://github.com/Lodoelama/Dynamic-Analysis-of-Wannacry-Ransomware)
+- Conducted a comprehensive dynamic analysis of the WannaCry ransomware, detailing its propagation mechanisms and encryption methods.
+- Established a malware analysis lab using VirtualBox, REMnux, and Windows 10, ensuring a secure environment for malware execution and observation.
+- Utilized advanced tools such as Flare VM, Floss, TCPview, Procmon, and Wireshark to extract data, monitor network activity, and observe process creation.
+- Developed effective mitigation strategies to protect systems against ransomware threats, emphasizing software updates, network segmentation, user education, data backups, and antivirus solutions.
 
-## 🔒 [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
-- Designed, developed, and deployed a secure web application hosted on Azure.
-- Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
-- Practiced secure web development practices to protect against common vulnerabilities.
-- Demonstrated proficiency in cloud security and web application security principles.
+## 🛡️ [Defensive Security Project](https://github.com/Lodoelama/Defensive-Security-Project)
+- Worked in a team of two to design a custom monitoring environment to protect a fictional organization, VSI.
+- Utilized Splunk to research and design a comprehensive monitoring solution.
+- Assessed the effectiveness of the monitoring solution against simulated attacks.
+- Prepared and delivered a group presentation showcasing the defensive project.
 
 ## 🎯 [Offensive Security CTF Project](https://github.com/Lodoelama/Offensive-Security-CTF-Project/tree/main)
 - Conducted a comprehensive Offensive Security CTF project focusing on web application security, Linux servers, and Windows servers.
@@ -57,11 +62,12 @@ Cybersecurity Generalist with a distinctive blend of technical acumen and legal 
 - Demonstrated expertise in HTML, PHP, JavaScript, and networking concepts related to HTTP, as well as Linux and Windows server vulnerabilities.
 - Created concise write-ups and a detailed report outlining the challenges, methodologies, and potential security risks for future reference and mitigation.
 
-## 🛡️ [Defensive Security Project](https://github.com/Lodoelama/Defensive-Security-Project)
-- Worked in a team of two to design a custom monitoring environment to protect a fictional organization, VSI.
-- Utilized Splunk to research and design a comprehensive monitoring solution.
-- Assessed the effectiveness of the monitoring solution against simulated attacks.
-- Prepared and delivered a group presentation showcasing the defensive project.
+## 🔒 [Securing Cloud Apps](https://github.com/Lodoelama/Securing-Cloud-Apps/tree/main)
+- Designed, developed, and deployed a secure web application hosted on Azure.
+- Implemented IP networking, DNS, SSL/TLS certificates, and Azure Key Vault for enhanced security.
+- Practiced secure web development practices to protect against common vulnerabilities.
+- Demonstrated proficiency in cloud security and web application security principles.
+
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia University (02/2023 - 08/2023)
