@@ -52,7 +52,8 @@ Let's embrace the digital frontier together. Connect with me and let's explore t
 - Analyzed logs and monitored alerts through Splunk to identify malicious actors and developed incident response reports.
 - Configured firewalls to deny traffic on hosts and networks.
 
-**Everest Consulting Services Inc, Paralegal** (2021 - Present)
+**Everest Consulting Services Inc, Paralegal | WordPress Admin** (2021 - Present)
+- Managed and secured the WordPress website for a consulting services LLC, ensuring timely and safe updates; concurrently handled sensitive legal documents, demonstrating an acute attention to detail and data protection best practices.
 - Prepared and reviewed legal documents, demonstrating meticulous attention to detail and compliance with regulations.
 - Utilized various software tools for legal research and document preparation, showcasing adaptability in learning and using new technologies.
 - Managed and protected sensitive client data, demonstrating a strong understanding of data security and privacy.
