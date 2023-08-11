@@ -86,8 +86,8 @@ Let's embrace the digital frontier together. Connect with me and let's explore t
 ## 🎓 Education:
 
 - Cybersecurity Certification - Columbia University (02/2023 - 08/2023)
-- AWS Certification - Certified Solutions architect (07/2023 - present)
-- CompTIA Security+ Certification (08/2023 - present)
+- AWS Certification - Certified Solutions architect (Expected: 11/2023)
+- CompTIA Security+ Certification (Expected: 10/2023)
 - Paralegal Certification - Washington Technical Institute (02/2020 - 05/2021)
 - General Education Courework - State University of New York at Oswego (07/2015 - 07/2017)
 
