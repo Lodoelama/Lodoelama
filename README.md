@@ -30,7 +30,7 @@ Hello! I'm a Cybersecurity Generalist, trained at the Columbia University Engine
 
 - **Continuous Learning**: Beyond formal education, I'm committed to lifelong learning. Whether it's hands-on web application security experience from Portswigger Web Academy or Python programming from Harvard University's CS50P, I'm always on the lookout for avenues to enhance my skills.
 
-- **Legal Expertise**: My role as a Paralegal at Everest Consulting Services Inc. has further sharpened my attention to detail, especially when it comes to data security and privacy.
+- **Legal Expertise**: My role as a Paralegal and WordPress Admin at Everest Consulting Services Inc. has further sharpened my attention to detail, especially when it comes to data security and privacy.
 
 - **Embracing the Digital Frontier**: In this digital age, I believe that true control is an illusion. But with the right skills, knowledge, and mindset, one can navigate this frontier with confidence and expertise.
 
