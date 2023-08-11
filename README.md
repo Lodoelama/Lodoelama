@@ -42,7 +42,7 @@ Let's embrace the digital frontier together. Connect with me and let's explore t
 
 ## 💼 **Experience**:
 
-*Columbia University Engineering Cyber Security Program* (02/2023 - 08/2023)
+**Columbia University Engineering Cyber Security Program** (02/2023 - 08/2023)
 - Monitored simulated network traffic using Wireshark to identify payload transfers, URL requests, login and password information, along with other security-specific traffic.
 - Identified and configured payloads based on previously enumerated focal points of vulnerability with Metasploit and SearchSploit Utilized both frameworks to initiate bind and reverse shells in laboratory settings.
 - Experienced with cross-site scripting (XSS) and SQL injections in laboratory settings to enumerate server vulnerabilities, as well as configuring servers for input-validation to mitigate XSS vulnerabilities.
@@ -52,7 +52,7 @@ Let's embrace the digital frontier together. Connect with me and let's explore t
 - Analyzed logs and monitored alerts through Splunk to identify malicious actors and developed incident response reports.
 - Configured firewalls to deny traffic on hosts and networks.
 
-*Everest Consulting Services Inc, Paralegal* (2021 - Present)
+**Everest Consulting Services Inc, Paralegal** (2021 - Present)
 - Prepared and reviewed legal documents, demonstrating meticulous attention to detail and compliance with regulations.
 - Utilized various software tools for legal research and document preparation, showcasing adaptability in learning and using new technologies.
 - Managed and protected sensitive client data, demonstrating a strong understanding of data security and privacy.
