@@ -20,7 +20,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-Hello! I'm a Cybersecurity Generalist, trained at the Columbia University Engineering Cyber Security Program. My journey in cybersecurity is a blend of technical prowess, legal acumen, and a relentless drive for knowledge. Here's a glimpse into my professional landscape:
+Hello! I'm a Security Generalist, trained at the Columbia University Engineering Cyber Security Program. My journey in cybersecurity is a blend of technical prowess, legal acumen, and a relentless drive for knowledge. Here's a glimpse into my professional landscape:
 
 - **Technical & Legal Fusion**: My background uniquely combines technical expertise with legal knowledge, making me adept at understanding both the intricacies of cybersecurity and the nuances of legal compliance.
 
