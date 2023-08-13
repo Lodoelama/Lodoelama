@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=900&height=185&lines=root%40kali%3A~%23+python+initiate_control.py;Decrypting+Corporate+Firewalls+.+.+.;Injecting+Custom+Payload+.+.+.;Bypassing+Intrusion+Detection+Systems+.+.+.;Accessing+Secure+Database+.+.+.;Embrace+the+Digital+Frontier%3A+Control+is+an+Illusion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=900&height=185&lines=root%40kali%3A~%23+python3+initiate_control.py;Decrypting+Corporate+Firewalls+.+.+.;Injecting+Custom+Payload+.+.+.;Bypassing+Intrusion+Detection+Systems+.+.+.;Accessing+Secure+Database+.+.+.;Embrace+the+Digital+Frontier%3A+Control+is+an+Illusion" alt="Typing SVG" />
   </a>
 </p>
 
