@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=900&height=185&lines=root%40kali%3A~%23+python3+initiate_control.py;Decrypting+Corporate+Firewalls+.+.+.;Injecting+Custom+Payload+.+.+.;Bypassing+Intrusion+Detection+Systems+.+.+.;Accessing+Secure+Database+.+.+.;Embrace+the+Digital+Frontier%3A+Control+is+an+Illusion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1&color=3CC500&background=000000&multiline=true&width=900&height=185&lines=Hello;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,21 +20,9 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-Hello! I'm a Security Generalist, trained at the Columbia University Engineering Cyber Security Program. My journey in cybersecurity is a blend of technical prowess, legal acumen, and a relentless drive for knowledge. Here's a glimpse into my professional landscape:
 
-- **Technical & Legal Fusion**: My background uniquely combines technical expertise with legal knowledge, making me adept at understanding both the intricacies of cybersecurity and the nuances of legal compliance.
 
-- **Diverse Experience**: My experience spans enhancing cloud app security, participating in offensive security CTF projects, designing custom monitoring environments and basic static and dynamic malware analysis.
 
-- **Columbia University's Cybersecurity Program**: My time at Columbia University was transformative. I delved deep into simulated network traffic analysis using Wireshark, payload identification, cross-site scripting, SQL injections, cryptographic encryption, and much more. This rigorous training has equipped me to navigate the complex terrains of cybersecurity.
-
-- **Continuous Learning**: Beyond formal education, I'm committed to lifelong learning. Whether it's hands-on web application security experience from Portswigger Web Academy or Python programming from Harvard University's CS50P, I'm always on the lookout for avenues to enhance my skills.
-
-- **Legal Expertise**: My role as a Paralegal and WordPress Admin at Everest Consulting Services Inc. has further sharpened my attention to detail, especially when it comes to data security and privacy.
-
-- **Embracing the Digital Frontier**: In this digital age, I believe that true control is an illusion. But with the right skills, knowledge, and mindset, one can navigate this frontier with confidence and expertise.
-
-Let's embrace the digital frontier together. Connect with me and let's explore the vast realms of cybersecurity!
 
 
 
