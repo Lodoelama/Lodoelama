@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lodoelama">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=0.2&color=3CC500&background=000000&multiline=true&width=450&height=100&lines=Hello;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=23&pause=1&color=3CC500&background=000000&multiline=true&width=450&height=100&lines=Hello👋🏻;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 
 
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="90%" align="left">
+<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="100%" align="left">
 
 
 
