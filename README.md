@@ -18,7 +18,7 @@
 
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> **Experience**:
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> **Experience**:
 
 **Columbia University Engineering Cyber Security Program** (02/2023 - 08/2023)
 - Monitored simulated network traffic using Wireshark to identify payload transfers, URL requests, login and password information, along with other security-specific traffic.
