@@ -45,23 +45,6 @@
 - Practiced secure web development practices to protect against common vulnerabilities.
 - Demonstrated proficiency in cloud security and web application security principles.
 
-## 🎓 Education:
-
-- Cybersecurity Certification - Columbia University (02/2023 - 08/2023)
-- AWS Certification - Certified Solutions architect (Expected: 11/2023)
-- CompTIA Security+ Certification (Expected: 10/2023)
-- Paralegal Certification - Washington Technical Institute (02/2020 - 05/2021)
-- General Education Courework - State University of New York at Oswego (07/2015 - 07/2017)
-
-## 📚 Additional Training (In Progress):
-
-- Practical Ethical Hacking, Web Application Security and Practical Malware Analysis Triage - TCM Security Academy
-- Networking Essentials - CISCO Networking Academy
-- Hands-on Web Application Security Experience - Portswigger Web Academy
-- Introduction to Python programming - Harvard University CS50P
-- Python 3 Programming - Codecademy
-
-
 ## :gear: <b> Programming Languages</b>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
