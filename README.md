@@ -18,23 +18,6 @@
 
 
 
-## :briefcase: **Experience**:
-
-**Columbia University Engineering Cyber Security Program** (02/2023 - 08/2023)
-- Monitored simulated network traffic using Wireshark to identify payload transfers, URL requests, login and password information, along with other security-specific traffic.
-- Identified and configured payloads based on previously enumerated focal points of vulnerability with Metasploit and SearchSploit Utilized both frameworks to initiate bind and reverse shells in laboratory settings.
-- Experienced with cross-site scripting (XSS) and SQL injections in laboratory settings to enumerate server vulnerabilities, as well as configuring servers for input-validation to mitigate XSS vulnerabilities.
-- Built virtual networks, virtual machines, configured availability sets, security groups, and restricted internal/external traffic on Microsoft Azure Cloud platform. 
-- Strong understanding of cryptographic encryption and hashing, both symmetric (AES-128, 192, 256) and asymmetric (RSA, Diffie-Hellman), subsequent hashing algorithms: SHA, SHA2, MD, LM, and NTLM.
-- Automated VM deployments and configurations using Ansible.
-- Analyzed logs and monitored alerts through Splunk to identify malicious actors and developed incident response reports.
-- Configured firewalls to deny traffic on hosts and networks.
-
-**Everest Consulting Services Inc, Paralegal | WordPress Admin** (2021 - Present)
-- Managed and secured the WordPress website for a consulting services LLC, ensuring timely and safe updates; concurrently handled sensitive legal documents, demonstrating an acute attention to detail and data protection best practices.
-- Prepared and reviewed legal documents, demonstrating meticulous attention to detail and compliance with regulations.
-- Utilized various software tools for legal research and document preparation, showcasing adaptability in learning and using new technologies.
-- Managed and protected sensitive client data, demonstrating a strong understanding of data security and privacy.
 
 
 ## 🔧 Highlighted Projects:
